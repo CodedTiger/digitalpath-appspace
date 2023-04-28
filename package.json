@@ -2,13 +2,11 @@
   "name": "digitalpath-appspace",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
-  "dependencies": {
-  },
   "devDependencies": {
-    "nx": "15.9.3",
-    "@nrwl/workspace": "15.9.3"
+    "@nrwl/react-native": "^16.0.0",
+    "@nrwl/workspace": "15.9.3",
+    "nx": "15.9.3"
   }
 }
